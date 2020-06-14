@@ -4,7 +4,7 @@
   "compilerOptions": {
     "types": [
       "jest"
-    ]
+    ],
   },
   "files": [],
   "references": [
